@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handyman", "Handyman\Handyman.csproj", "{B9539047-1A82-49F8-8901-8BE2557E55BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handyman.Tests", "Handyman.Tests\Handyman.Tests.csproj", "{CCB60CC4-5DA0-445E-B984-EDE4F469AFA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9539047-1A82-49F8-8901-8BE2557E55BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9539047-1A82-49F8-8901-8BE2557E55BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9539047-1A82-49F8-8901-8BE2557E55BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9539047-1A82-49F8-8901-8BE2557E55BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB60CC4-5DA0-445E-B984-EDE4F469AFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB60CC4-5DA0-445E-B984-EDE4F469AFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB60CC4-5DA0-445E-B984-EDE4F469AFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB60CC4-5DA0-445E-B984-EDE4F469AFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4244098E-7131-4492-BA74-53D5F3B5D1C8}
+	EndGlobalSection
+EndGlobal
